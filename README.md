@@ -1,9 +1,11 @@
 # restaurant-mangement
-REST API Spring Boot application for restaurant management system.
+REST API using Spring Boot.
 
 ### Techonologies & Tools
 * Maven
 * Spring Boot
+
+<p>
 
 
 ![Image of restaurant-management system](https://github.com/chintan4181/restaurant-mangement/blob/master/Restaurant-management.png)
