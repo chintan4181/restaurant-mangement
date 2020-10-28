@@ -11,6 +11,7 @@ REST API Spring Boot application for restaurant management system.
 ### Assumptions:Below aussumptions have made due to time constraints and simplicity.
   
   - To make it simple due to time limitations, all below services are bundled in one Spring Boot project. However for microservices, we can create 3 different spring boot services. Inter service communication can be implemented using Eureka Server.
+  - JSON sample request are not embedeed for APIs. 
 
 There are 3 REST services for this system
 - <b>Restaurant Service</b> -
