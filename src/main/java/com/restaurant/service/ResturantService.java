@@ -1,5 +1,8 @@
 package com.restaurant.service;
 
+import java.util.List;
+
+import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
 import com.restaurant.model.Table;
@@ -11,6 +14,16 @@ public class ResturantService {
 		//check if table is occupied or not
 		//book
 		return ;
+	}
+
+	public ResponseEntity<List<Table>> getAllTables() {
+		
+		return null;
+	}
+
+	public ResponseEntity<Table> getTable(int id) {
+		
+		return null;
 	}
 
 }
